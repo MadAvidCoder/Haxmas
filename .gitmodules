@@ -1,0 +1,15 @@
+[submodule "01_christmas_clicker"]
+	path = 01_christmas_clicker
+	url = https://github.com/MadAvidCoder/Christmas-Clicker
+[submodule "02_pcb_bauble"]
+	path = 02_pcb_bauble
+	url = https://github.com/MadAvidCoder/Christmas-Bauble
+[submodule "03_christmas_keychain"]
+	path = 03_christmas_keychain
+	url = https://github.com/MadAvidCoder/Christmas-Keychain
+[submodule "04_naughty_or_nice_api"]
+	path = 04_naughty_or_nice_api
+	url = https://github.com/MadAvidCoder/Naughty-or-Nice
+[submodule "05_gift_tracker"]
+	path = 05_gift_tracker
+	url = https://github.com/MadAvidCoder/Gift-Tracker

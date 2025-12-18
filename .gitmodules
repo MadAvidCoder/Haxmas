@@ -13,3 +13,6 @@
 [submodule "05_gift_tracker"]
 	path = 05_gift_tracker
 	url = https://github.com/MadAvidCoder/Gift-Tracker
+[submodule "06_printable_ruler"]
+	path = 06_printable_ruler
+	url = https://github.com/MadAvidCoder/Ruler

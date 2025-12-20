@@ -16,3 +16,6 @@
 [submodule "06_printable_ruler"]
 	path = 06_printable_ruler
 	url = https://github.com/MadAvidCoder/Ruler
+[submodule "07_christmas_tree"]
+	path = 07_christmas_tree
+	url = https://github.com/MadAvidCoder/Christmas-Tree
